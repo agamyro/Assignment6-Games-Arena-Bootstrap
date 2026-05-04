@@ -118,7 +118,7 @@ h6 {
 #home {
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, .88), rgba(0, 0, 0, .88)),
-        url('./images/hero-bg-H6PoyNYD.jpg') center/cover no-repeat fixed;
+        url('/images/hero-bg-H6PoyNYD.jpg') center/cover no-repeat fixed;
     display: flex;
     align-items: center;
     padding-top: 80px;
